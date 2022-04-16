@@ -1,0 +1,391 @@
+House: secondHouse
+	Floor: first
+		Room: Hall
+			Window: Number 1
+				Blinds: opened
+
+		Room: livingRoom
+			Window: Number 1
+				Blinds: opened
+			Window: Number 2
+				Blinds: opened
+
+		Room: Kitchen
+			Window: Number 1
+				Blinds: opened
+
+		Room: Garage
+			Window: Number 1
+				Blinds: opened
+
+	Floor: second
+		Room: Bathroom
+			Window: Number 1
+				Blinds: opened
+
+		Room: kidRoom1
+			Window: Number 1
+				Blinds: opened
+
+		Room: kidRoom2
+			Window: Number 1
+				Blinds: opened
+
+		Room: bedRoom
+			Window: Number 1
+				Blinds: opened
+
+People:
+	Person: Mom Omo
+		Age: 49
+		Gender: FEMALE
+		Activity: Sleeping
+		Room: Bathroom
+
+	Person: Child3 Omo
+		Age: 9
+		Gender: FEMALE
+		Activity: Sleeping
+		Room: bedRoom
+
+	Person: Child4 Omo
+		Age: 8
+		Gender: FEMALE
+		Activity: Sleeping
+		Room: Bathroom
+
+	Person: Child2 Omo
+		Age: 10
+		Gender: MALE
+		Activity: Sleeping
+		Room: kidRoom1
+
+	Person: Dad Omo
+		Age: 51
+		Gender: MALE
+		Activity: Free
+		Room: Hall
+
+	Person: Child1 Omo
+		Age: 11
+		Gender: MALE
+		Activity: Free
+		Room: Bathroom
+
+Devices:
+	Device: Thermometer, 0.0
+		Consumption: 	Documentation: Thermometer documentation
+						Power consumption: 	Idle: 0.01
+						Active: 0.01
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 2.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Air_Conditioner, 54.0
+		Consumption: 	Documentation: Air conditioner documentation
+						Power consumption: 	Idle: 0.1
+						Active: 3.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 58.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Thermometer, 4.0
+		Consumption: 	Documentation: Thermometer documentation
+						Power consumption: 	Idle: 0.01
+						Active: 0.01
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 6.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Television, 36.0
+		Consumption: 	Documentation: Television documentation
+						Power consumption: 	Idle: 0.1
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: CD_Player, 50.0
+		Consumption: 	Documentation: CD Player documentation documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.1
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Air_Conditioner, 52.0
+		Consumption: 	Documentation: Air conditioner documentation
+						Power consumption: 	Idle: 0.1
+						Active: 3.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 62.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Thermometer, 8.0
+		Consumption: 	Documentation: Thermometer documentation
+						Power consumption: 	Idle: 0.01
+						Active: 0.01
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 10.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Oven, 42.0
+		Consumption: 	Documentation: Oven documentation
+						Power consumption: 	Idle: 0.1
+						Active: 2.3
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Fridge, 44.0
+		Consumption: 	Documentation: Fridge documentation documentation
+						Power consumption: 	Idle: 0.1
+						Active: 0.1
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Microwave, 56.0
+		Consumption: 	Documentation: Microwave documentation
+						Power consumption: 	Idle: 0.1
+						Active: 1.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 64.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Thermometer, 12.0
+		Consumption: 	Documentation: Thermometer documentation
+						Power consumption: 	Idle: 0.01
+						Active: 0.01
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 14.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 66.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Thermometer, 16.0
+		Consumption: 	Documentation: Thermometer documentation
+						Power consumption: 	Idle: 0.01
+						Active: 0.01
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 18.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Washing_Machine, 32.0
+		Consumption: 	Documentation: Washing machine documentation
+						Power consumption: 	Idle: 0.1
+						Active: 5.0
+						Water consumption: 	Idle: 0
+						Active: 71
+
+
+	Device: Light, 60.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Thermometer, 20.0
+		Consumption: 	Documentation: Thermometer documentation
+						Power consumption: 	Idle: 0.01
+						Active: 0.01
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 22.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Television, 38.0
+		Consumption: 	Documentation: Television documentation
+						Power consumption: 	Idle: 0.1
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: CD_Player, 46.0
+		Consumption: 	Documentation: CD Player documentation documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.1
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 68.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Thermometer, 24.0
+		Consumption: 	Documentation: Thermometer documentation
+						Power consumption: 	Idle: 0.01
+						Active: 0.01
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 26.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Television, 40.0
+		Consumption: 	Documentation: Television documentation
+						Power consumption: 	Idle: 0.1
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: CD_Player, 48.0
+		Consumption: 	Documentation: CD Player documentation documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.1
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 70.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Thermometer, 28.0
+		Consumption: 	Documentation: Thermometer documentation
+						Power consumption: 	Idle: 0.01
+						Active: 0.01
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 30.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Television, 34.0
+		Consumption: 	Documentation: Television documentation
+						Power consumption: 	Idle: 0.1
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+	Device: Light, 72.0
+		Consumption: 	Documentation: Light documentation
+						Power consumption: 	Idle: 0.0
+						Active: 0.5
+						Water consumption: 	Idle: 0
+						Active: 0
+
+
+Pets:
+	Pet: Dog
+		Age: 6, breed: Dog, gender: MALE
+
+	Pet: Cat
+		Age: 5, breed: Cat, gender: MALE
+
+Items:
+	Item: Ski1
+		In room: kidRoom1
+
+	Item: Ski2
+		In room: Hall
+
+	Item: Bike2
+		In room: bedRoom
+
+	Item: Bike1
+		In room: Hall
+

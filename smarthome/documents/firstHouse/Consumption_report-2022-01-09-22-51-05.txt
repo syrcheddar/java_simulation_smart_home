@@ -1,0 +1,93 @@
+Consumption Report 
+
+Device: Device{deviceName='Thermometer', id =0.0, room =cz.cvut.fel.omo.smarthome.building.Room@ea30797, broken=false}
+	consumed: 1,7 kWh and: 0 l of water
+
+Device: Device{deviceName='Light', id =2.0, room =cz.cvut.fel.omo.smarthome.building.Room@ea30797, broken=false}
+	consumed: 68,5 kWh and: 0 l of water
+
+Device: Device{deviceName='Air_Conditioner', id =54.0, room =cz.cvut.fel.omo.smarthome.building.Room@ea30797, broken=false}
+	consumed: 16,97 kWh and: 0 l of water
+
+Device: Device{deviceName='Thermometer', id =4.0, room =cz.cvut.fel.omo.smarthome.building.Room@3f8f9dd6, broken=false}
+	consumed: 1,7 kWh and: 0 l of water
+
+Device: Device{deviceName='Light', id =6.0, room =cz.cvut.fel.omo.smarthome.building.Room@3f8f9dd6, broken=false}
+	consumed: 80,17 kWh and: 0 l of water
+
+Device: Device{deviceName='Television', id =36.0, room =cz.cvut.fel.omo.smarthome.building.Room@3f8f9dd6, broken=false}
+	consumed: 3,67 kWh and: 0 l of water
+
+Device: Device{deviceName='CD_Player', id =50.0, room =cz.cvut.fel.omo.smarthome.building.Room@3f8f9dd6, broken=false}
+	consumed: 0,4 kWh and: 0 l of water
+
+Device: Device{deviceName='Air_Conditioner', id =52.0, room =cz.cvut.fel.omo.smarthome.building.Room@3f8f9dd6, broken=false}
+	consumed: 16,97 kWh and: 0 l of water
+
+Device: Device{deviceName='Thermometer', id =8.0, room =cz.cvut.fel.omo.smarthome.building.Room@aec6354, broken=false}
+	consumed: 1,7 kWh and: 0 l of water
+
+Device: Device{deviceName='Light', id =10.0, room =cz.cvut.fel.omo.smarthome.building.Room@aec6354, broken=false}
+	consumed: 76,17 kWh and: 0 l of water
+
+Device: Device{deviceName='Oven', id =42.0, room =cz.cvut.fel.omo.smarthome.building.Room@aec6354, broken=false}
+	consumed: 16,97 kWh and: 0 l of water
+
+Device: Device{deviceName='Fridge', id =44.0, room =cz.cvut.fel.omo.smarthome.building.Room@aec6354, broken=false}
+	consumed: 16,97 kWh and: 0 l of water
+
+Device: Device{deviceName='Microwave', id =56.0, room =cz.cvut.fel.omo.smarthome.building.Room@aec6354, broken=false}
+	consumed: 16,97 kWh and: 0 l of water
+
+Device: Device{deviceName='Thermometer', id =12.0, room =cz.cvut.fel.omo.smarthome.building.Room@1c655221, broken=false}
+	consumed: 1,7 kWh and: 0 l of water
+
+Device: Device{deviceName='Light', id =14.0, room =cz.cvut.fel.omo.smarthome.building.Room@1c655221, broken=false}
+	consumed: 82,17 kWh and: 0 l of water
+
+Device: Device{deviceName='Thermometer', id =16.0, room =cz.cvut.fel.omo.smarthome.building.Room@58d25a40, broken=false}
+	consumed: 1,7 kWh and: 0 l of water
+
+Device: Device{deviceName='Light', id =18.0, room =cz.cvut.fel.omo.smarthome.building.Room@58d25a40, broken=false}
+	consumed: 83,83 kWh and: 0 l of water
+
+Device: Device{deviceName='Washing_Machine', id =32.0, room =cz.cvut.fel.omo.smarthome.building.Room@58d25a40, broken=false}
+	consumed: 106,67 kWh and: 1514,67 l of water
+
+Device: Device{deviceName='Thermometer', id =20.0, room =cz.cvut.fel.omo.smarthome.building.Room@1b701da1, broken=false}
+	consumed: 1,7 kWh and: 0 l of water
+
+Device: Device{deviceName='Light', id =22.0, room =cz.cvut.fel.omo.smarthome.building.Room@1b701da1, broken=false}
+	consumed: 71,17 kWh and: 0 l of water
+
+Device: Device{deviceName='Television', id =38.0, room =cz.cvut.fel.omo.smarthome.building.Room@1b701da1, broken=false}
+	consumed: 3 kWh and: 0 l of water
+
+Device: Device{deviceName='CD_Player', id =46.0, room =cz.cvut.fel.omo.smarthome.building.Room@1b701da1, broken=false}
+	consumed: 0,4 kWh and: 0 l of water
+
+Device: Device{deviceName='Thermometer', id =24.0, room =cz.cvut.fel.omo.smarthome.building.Room@726f3b58, broken=false}
+	consumed: 1,7 kWh and: 0 l of water
+
+Device: Device{deviceName='Light', id =26.0, room =cz.cvut.fel.omo.smarthome.building.Room@726f3b58, broken=false}
+	consumed: 60,17 kWh and: 0 l of water
+
+Device: Device{deviceName='Television', id =40.0, room =cz.cvut.fel.omo.smarthome.building.Room@726f3b58, broken=false}
+	consumed: 2,67 kWh and: 0 l of water
+
+Device: Device{deviceName='CD_Player', id =48.0, room =cz.cvut.fel.omo.smarthome.building.Room@726f3b58, broken=false}
+	consumed: 0,5 kWh and: 0 l of water
+
+Device: Device{deviceName='Thermometer', id =28.0, room =cz.cvut.fel.omo.smarthome.building.Room@442d9b6e, broken=false}
+	consumed: 1,7 kWh and: 0 l of water
+
+Device: Device{deviceName='Light', id =30.0, room =cz.cvut.fel.omo.smarthome.building.Room@442d9b6e, broken=false}
+	consumed: 79 kWh and: 0 l of water
+
+Device: Device{deviceName='Television', id =34.0, room =cz.cvut.fel.omo.smarthome.building.Room@442d9b6e, broken=false}
+	consumed: 1 kWh and: 0 l of water
+
+Destroyed devices: 
+
+Total electricity cost: 899,66 CZK
+Total water cost: 151,47 CZK

@@ -1,0 +1,170 @@
+What devices persons used: 
+
+Mom used Device: Fridge, with ID = 44.0 ... 5 times. 
+Mom used Device: Light, with ID = 68.0 ... 1 times. 
+Mom used Device: Washing_Machine, with ID = 32.0 ... 6 times. 
+Mom used Device: Television, with ID = 34.0 ... 4 times. 
+Mom used Device: CD_Player, with ID = 46.0 ... 1 times. 
+Mom used Device: CD_Player, with ID = 48.0 ... 2 times. 
+Mom used Device: CD_Player, with ID = 50.0 ... 2 times. 
+Mom used Device: Television, with ID = 40.0 ... 1 times. 
+Mom used Device: Light, with ID = 10.0 ... 1 times. 
+Mom used Device: Television, with ID = 38.0 ... 1 times. 
+Mom used Device: Oven, with ID = 42.0 ... 1 times. 
+Child3 used Device: Television, with ID = 34.0 ... 2 times. 
+Child3 used Device: Television, with ID = 38.0 ... 2 times. 
+Child3 used Device: Oven, with ID = 42.0 ... 8 times. 
+Child3 used Device: Washing_Machine, with ID = 32.0 ... 7 times. 
+Child3 used Device: Light, with ID = 62.0 ... 2 times. 
+Child3 used Device: CD_Player, with ID = 46.0 ... 2 times. 
+Child3 used Device: Light, with ID = 64.0 ... 1 times. 
+Child3 used Device: Fridge, with ID = 44.0 ... 9 times. 
+Child3 used Device: Television, with ID = 40.0 ... 3 times. 
+Child3 used Device: Light, with ID = 66.0 ... 2 times. 
+Child3 used Device: Light, with ID = 60.0 ... 1 times. 
+Child3 used Device: Light, with ID = 6.0 ... 1 times. 
+Child3 used Device: Light, with ID = 14.0 ... 2 times. 
+Child4 used Device: Light, with ID = 2.0 ... 1 times. 
+Child4 used Device: Light, with ID = 62.0 ... 1 times. 
+Child4 used Device: Fridge, with ID = 44.0 ... 11 times. 
+Child4 used Device: Television, with ID = 40.0 ... 2 times. 
+Child4 used Device: Washing_Machine, with ID = 32.0 ... 7 times. 
+Child4 used Device: Television, with ID = 38.0 ... 2 times. 
+Child4 used Device: CD_Player, with ID = 46.0 ... 4 times. 
+Child4 used Device: Oven, with ID = 42.0 ... 6 times. 
+Child4 used Device: Light, with ID = 60.0 ... 2 times. 
+Child4 used Device: CD_Player, with ID = 50.0 ... 1 times. 
+Child4 used Device: Television, with ID = 34.0 ... 5 times. 
+Child4 used Device: CD_Player, with ID = 48.0 ... 1 times. 
+Child4 used Device: Television, with ID = 36.0 ... 1 times. 
+Child4 used Device: Light, with ID = 22.0 ... 1 times. 
+Child4 used Device: Light, with ID = 30.0 ... 1 times. 
+Child4 used Device: Light, with ID = 70.0 ... 1 times. 
+Child4 used Device: Light, with ID = 14.0 ... 2 times. 
+Child2 used Device: CD_Player, with ID = 50.0 ... 1 times. 
+Child2 used Device: CD_Player, with ID = 48.0 ... 3 times. 
+Child2 used Device: Television, with ID = 40.0 ... 2 times. 
+Child2 used Device: Washing_Machine, with ID = 32.0 ... 4 times. 
+Child2 used Device: Television, with ID = 38.0 ... 4 times. 
+Child2 used Device: Light, with ID = 22.0 ... 2 times. 
+Child2 used Device: Oven, with ID = 42.0 ... 3 times. 
+Child2 used Device: Light, with ID = 70.0 ... 1 times. 
+Child2 used Device: Fridge, with ID = 44.0 ... 3 times. 
+Child2 used Device: CD_Player, with ID = 46.0 ... 2 times. 
+Child2 used Device: Television, with ID = 34.0 ... 1 times. 
+Child2 used Device: Light, with ID = 18.0 ... 1 times. 
+Child2 used Device: Light, with ID = 66.0 ... 1 times. 
+Dad used Device: Light, with ID = 64.0 ... 1 times. 
+Dad used Device: Oven, with ID = 42.0 ... 2 times. 
+Dad used Device: Light, with ID = 30.0 ... 2 times. 
+Dad used Device: Television, with ID = 34.0 ... 2 times. 
+Dad used Device: CD_Player, with ID = 50.0 ... 2 times. 
+Dad used Device: CD_Player, with ID = 48.0 ... 2 times. 
+Dad used Device: Washing_Machine, with ID = 32.0 ... 2 times. 
+Dad used Device: Fridge, with ID = 44.0 ... 2 times. 
+Dad used Device: Light, with ID = 72.0 ... 1 times. 
+Child1 used Device: Fridge, with ID = 44.0 ... 8 times. 
+Child1 used Device: Light, with ID = 14.0 ... 1 times. 
+Child1 used Device: CD_Player, with ID = 50.0 ... 1 times. 
+Child1 used Device: Microwave, with ID = 56.0 ... 1 times. 
+Child1 used Device: Television, with ID = 36.0 ... 1 times. 
+Child1 used Device: Television, with ID = 38.0 ... 4 times. 
+Child1 used Device: CD_Player, with ID = 46.0 ... 4 times. 
+Child1 used Device: Light, with ID = 22.0 ... 1 times. 
+Child1 used Device: CD_Player, with ID = 48.0 ... 2 times. 
+Child1 used Device: Oven, with ID = 42.0 ... 5 times. 
+Child1 used Device: Washing_Machine, with ID = 32.0 ... 4 times. 
+Child1 used Device: Television, with ID = 40.0 ... 1 times. 
+Child1 used Device: Light, with ID = 60.0 ... 1 times. 
+Child1 used Device: Light, with ID = 26.0 ... 2 times. 
+Child1 used Device: Light, with ID = 62.0 ... 1 times. 
+Child1 used Device: Television, with ID = 34.0 ... 2 times. 
+Child1 used Device: Light, with ID = 64.0 ... 1 times. 
+
+
+
+Person events: 
+
+Mom did event: SleepEvent 7 times. 
+Mom did event: WorkEvent 7 times. 
+Mom did event: FridgeEvent 5 times. 
+Mom did event: LightTurnOff 2 times. 
+Mom did event: GoBikingEvent 9 times. 
+Mom did event: GoSkiingEvent 5 times. 
+Mom did event: CloseBlindsEvent 4 times. 
+Mom did event: WashingMachineEvent 6 times. 
+Mom did event: PersonMoveEvent 29 times. 
+Mom did event: WatchTV 6 times. 
+Mom did event: GoRunningEvent 13 times. 
+Mom did event: ListenToMusic 5 times. 
+Mom did event: OvenEvent 1 times. 
+Child3 did event: SleepEvent 7 times. 
+Child3 did event: PersonMoveEvent 51 times. 
+Child3 did event: WatchTV 7 times. 
+Child3 did event: GoRunningEvent 30 times. 
+Child3 did event: OvenEvent 8 times. 
+Child3 did event: WashingMachineEvent 7 times. 
+Child3 did event: GoSkiingEvent 13 times. 
+Child3 did event: GoBikingEvent 20 times. 
+Child3 did event: LightTurnOff 9 times. 
+Child3 did event: ListenToMusic 2 times. 
+Child3 did event: CloseBlindsEvent 9 times. 
+Child3 did event: FridgeEvent 9 times. 
+Child4 did event: SleepEvent 7 times. 
+Child4 did event: GoRunningEvent 30 times. 
+Child4 did event: LightTurnOff 9 times. 
+Child4 did event: GoBikingEvent 19 times. 
+Child4 did event: PersonMoveEvent 63 times. 
+Child4 did event: CloseBlindsEvent 6 times. 
+Child4 did event: FridgeEvent 11 times. 
+Child4 did event: WatchTV 10 times. 
+Child4 did event: WashingMachineEvent 7 times. 
+Child4 did event: ListenToMusic 6 times. 
+Child4 did event: OvenEvent 6 times. 
+Child4 did event: GoSkiingEvent 11 times. 
+Child2 did event: SleepEvent 7 times. 
+Child2 did event: ListenToMusic 6 times. 
+Child2 did event: WatchTV 7 times. 
+Child2 did event: WashingMachineEvent 4 times. 
+Child2 did event: GoRunningEvent 26 times. 
+Child2 did event: PersonMoveEvent 35 times. 
+Child2 did event: GoSkiingEvent 18 times. 
+Child2 did event: GoBikingEvent 20 times. 
+Child2 did event: CloseBlindsEvent 6 times. 
+Child2 did event: LightTurnOff 5 times. 
+Child2 did event: OvenEvent 3 times. 
+Child2 did event: FridgeEvent 3 times. 
+Dad did event: SleepEvent 8 times. 
+Dad did event: WorkEvent 7 times. 
+Dad did event: PersonMoveEvent 22 times. 
+Dad did event: LightTurnOff 4 times. 
+Dad did event: OvenEvent 2 times. 
+Dad did event: GoRunningEvent 9 times. 
+Dad did event: GoBikingEvent 8 times. 
+Dad did event: GoSkiingEvent 11 times. 
+Dad did event: WatchTV 2 times. 
+Dad did event: ListenToMusic 4 times. 
+Dad did event: CloseBlindsEvent 5 times. 
+Dad did event: WashingMachineEvent 2 times. 
+Dad did event: FridgeEvent 2 times. 
+Child1 did event: SleepEvent 7 times. 
+Child1 did event: PersonMoveEvent 46 times. 
+Child1 did event: FridgeEvent 8 times. 
+Child1 did event: LightTurnOff 7 times. 
+Child1 did event: ListenToMusic 7 times. 
+Child1 did event: GoRunningEvent 26 times. 
+Child1 did event: MicrowaveEvent 1 times. 
+Child1 did event: GoBikingEvent 19 times. 
+Child1 did event: GoSkiingEvent 17 times. 
+Child1 did event: WatchTV 8 times. 
+Child1 did event: OvenEvent 5 times. 
+Child1 did event: WashingMachineEvent 4 times. 
+
+
+
+Pet Events: 
+
+Dog did event: PetMoveEvent 158 times. 
+Dog did event: PetSleepEvent 65 times. 
+Cat did event: PetSleepEvent 65 times. 
+Cat did event: PetMoveEvent 162 times. 

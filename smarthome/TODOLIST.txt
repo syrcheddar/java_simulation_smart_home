@@ -1,0 +1,18 @@
+TODO LIST
+
+Constant
+javadoc
+
+
+
+
+MÁME: factory, state machine, visitor, singleton, observer, composite
+
+MŮŽEME:
+        ●	Iterator
+        ●	Decorator/Composite
+        ●	<Visitor/Observer/Listener> <- Visitora máme
+        ●	Chain of responsibility
+        ●	Partially persistent data structure
+        ●	Object Pool
+        ●	Lazy Initialization
